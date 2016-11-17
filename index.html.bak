@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <!--
-	Landed by HTML5 UP	html5up.net | @ajlkn
-	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)-->
+	Landed by HTML5 UP	html5up.net | @ajlkn	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)-->
 <html>
   <head>
     <meta content="text/html; charset=utf-8" http-equiv="content-type">
@@ -19,8 +18,8 @@
         <h1 id="logo"><a href="index.html">Landed</a></h1>
         <nav id="nav">
           <ul>
-            <li><a href="index.html">Home</a></li>
-            <li> <a href="#">Layouts</a>
+            <li><a href="index.html">Inicio</a></li>
+            <li> Apps
               <ul>
                 <li><a href="left-sidebar.html">Left Sidebar</a></li>
                 <li><a href="right-sidebar.html">Right Sidebar</a></li>
@@ -35,8 +34,8 @@
                 </li>
               </ul>
             </li>
-            <li><a href="elements.html">Elements</a></li>
-            <li><a href="#" class="button special">Sign Up</a></li>
+            <li>Empresa</li>
+            <li><a href="#" class="button special">Clientes</a></li>
           </ul>
         </nav>
       </header>
@@ -44,11 +43,24 @@
       <section id="banner">
         <div class="content">
           <header>
-            <h2>TH future has landed</h2>
-            <p>And there are no hoverboards or flying cars.<br>
-              Just apps. Lots of mother flipping apps.</p>
+            <h2 style="text-align: center; margin-top: -27px;"><span style="font-family: Xirod;">D</span>unkel
+              <strong><span style="font-family: Techno Hideo;">T</span></strong>ech</h2>
+            <p style="text-align: justify;">Diseñamos y desarrollamos
+              aplicaciones en las plataformas mayoritarias del mercado para que
+              el impacto de tu idea de negocio sea total y coherente con los
+              tiempos que corren.</p>
+            <p style="text-align: justify;"><br>
+            </p>
+            <p style="text-align: justify;">Ponemos a tu alcance un servicio
+              adaptado a tus necesidades, desde una consultoria integral con
+              supervicion de todos y ada uno de los pasos ue has de seguir para
+              crear unnegocio actual (comunicacion, diseño corporativo,
+              tecnologias...) a productos adaptados a metodologias agiles de
+              creacion de aplicaciones diseñadas por nosotros.<br>
+            </p>
           </header>
-          <span class="image"><img src="images/pic01.jpg" alt=""></span> </div>
+          <br>
+        </div>
         <a href="#one" class="goto-next scrolly">Next</a> </section>
       <!-- One -->
       <section id="one" class="spotlight style1 bottom"> <span class="image fit main"><img
@@ -58,8 +70,8 @@
             <div class="row">
               <div class="4u 12u$(medium)">
                 <header>
-                  <h2>Odio faucibus ipsum integer consequat</h2>
-                  <p>Nascetur eu nibh vestibulum amet gravida nascetur praesent</p>
+                  <h2>Nuestro trabajo como desarrolladores de aplicaciones busca
+                    siempre el atractivo, la sencillez y la utilidad.</h2>
                 </header>
               </div>
               <div class="4u 12u$(medium)">
@@ -85,7 +97,11 @@
             src="images/pic03.jpg" alt=""></span>
         <div class="content">
           <header>
-            <h2>Interdum amet non magna accumsan</h2>
+            <h2>Digitalice cada &nbsp; paso de todo tipo de procesos, e una
+              plataforma digital estandar o personalizada facil de usar.</h2>
+            <br>
+            <br>
+            <br>
             <p>Nunc commodo accumsan eget id nisi eu col volutpat magna</p>
           </header>
           <p>Feugiat accumsan lorem eu ac lorem amet ac arcu phasellus tortor
@@ -102,7 +118,8 @@
             src="images/pic04.jpg" alt=""></span>
         <div class="content">
           <header>
-            <h2>Interdum felis blandit praesent sed augue</h2>
+            <h2>Gane un control completo de todas las actividades de su empresa
+              con las herramientas de la aplicacion.</h2>
             <p>Accumsan integer ultricies aliquam vel massa sapien phasellus</p>
           </header>
           <p>Feugiat accumsan lorem eu ac lorem amet ac arcu phasellus tortor
