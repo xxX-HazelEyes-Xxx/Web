@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <!--
-	Landed by HTML5 UP	html5up.net | @ajlkn
-	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)-->
+	Landed by HTML5 UP	html5up.net | @ajlkn	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)-->
 <html>
   <head>
     <meta content="text/html; charset=utf-8" http-equiv="content-type">
@@ -19,7 +18,7 @@
         <h1 id="logo"><a href="index.html">Landed</a></h1>
         <nav id="nav">
           <ul>
-            <li><a href="index.html">Home</a></li>
+            <li><a href="index.html">Inicio</a></li>
             <li> <a href="#">Layouts</a>
               <ul>
                 <li><a href="left-sidebar.html">Left Sidebar</a></li>
@@ -44,11 +43,10 @@
       <section id="banner">
         <div class="content">
           <header>
-            <h2>TH future has landed</h2>
-            <p>And there are no hoverboards or flying cars.<br>
-              Just apps. Lots of mother flipping apps.</p>
-          </header>
-          <span class="image"><img src="images/pic01.jpg" alt=""></span> </div>
+            <h2>Dunkel Technologies</h2>
+            Dreaming Your Reality . </header>
+          <img style="width: 302px; height: 224px;" title="DT" alt="Dunkel Tech"
+            src="assets/images/Test.jpg"> </div>
         <a href="#one" class="goto-next scrolly">Next</a> </section>
       <!-- One -->
       <section id="one" class="spotlight style1 bottom"> <span class="image fit main"><img
@@ -166,16 +164,12 @@
       <!-- Five -->
       <section id="five" class="wrapper style2 special fade">
         <div class="container">
-          <header>
-            <h2>Magna faucibus lorem diam</h2>
-            <p>Ante metus praesent faucibus ante integer id accumsan eleifend</p>
-          </header>
-          <form method="post" action="#" class="container 50%">
+          <form method="post" action="#" class="container 50%"><br>
             <div class="row uniform 50%">
-              <div class="8u 12u$(xsmall)"><input name="email" id="email" placeholder="Your Email Address"
-                  type="email"></div>
-              <div class="4u$ 12u$(xsmall)"><input value="Get Started" class="fit special"
-                  type="submit"></div>
+              <div class="8u 12u$(xsmall)"><br>
+              </div>
+              <div class="4u$ 12u$(xsmall)"><br>
+              </div>
             </div>
           </form>
         </div>
@@ -191,7 +185,7 @@
           </li>
           <li><a href="#" class="icon alt fa-instagram"><span class="label">Instagram</span></a><br>
           </li>
-          <li><a href="#" class="icon alt fa-github"><span class="label">GitHub</span></a><br>
+          <li><a href="#" class="icon alt fa-google-plus"><span class="label">GitHub</span></a><br>
           </li>
           <li><a href="#" class="icon alt fa-envelope"><span class="label">Email</span></a><br>
           </li>
